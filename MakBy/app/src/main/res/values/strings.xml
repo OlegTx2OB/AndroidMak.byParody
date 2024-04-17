@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MakBy</string>
+    <string name="home">Home</string>
+    <string name="coupons">Coupons</string>
+    <string name="menu">Menu</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="more">More...</string>
+</resources>
